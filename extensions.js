@@ -5,18 +5,19 @@
 //  E X P O R T S
 
 module.exports = exports = [
+  // #
   "3dv",
-
+  // A
   "ai",
   "amf",
   "art",
   "ase",
   "awg",
-
+  // B
   "blp",
   "bmp",
   "bw",
-
+  // C
   "cd5",
   "cdr",
   "cgm",
@@ -26,34 +27,34 @@ module.exports = exports = [
   "cr2",
   "cur",
   "cut",
-
+  // D
   "dds",
   "dib",
   "djvu",
   "dxf",
-
+  // E
   "e2d",
   "ecw",
   "egt",
   "emf",
   "eps",
   "exif",
-
+  // F
   "fs",
-
+  // G
   "gbr",
   "gif",
   "gpl",
   "grf",
-
+  // H
   "hdp",
-
+  // I
   "icns",
   "ico",
   "iff",
   "int",
   "inta",
-
+  // J
   "jfif",
   "jng",
   "jp2",
@@ -61,21 +62,21 @@ module.exports = exports = [
   "jpg",
   "jps",
   "jxr",
-
+  // L
   "lbm",
   "liff",
-
+  // M
   "max",
   "miff",
   "mng",
   "msp",
-
+  // N
   "nitf",
   "nrrd",
-
+  // O
   "odg",
   "ota",
-
+  // P
   "pam",
   "pbm",
   "pc1",
@@ -102,15 +103,15 @@ module.exports = exports = [
   "px",
   "pxm",
   "pxr",
-
+  // Q
   "qfx",
-
+  // R
   "ras",
   "raw",
   "rgb",
   "rgba",
   "rle",
-
+  // S
   "sct",
   "sgi",
   "sid",
@@ -118,20 +119,20 @@ module.exports = exports = [
   "sun",
   "svg",
   "sxd",
-
+  // T
   "tga",
   "tif",
   "tiff",
-
+  // V
   "v2d",
   "vnd",
   "vrml",
   "vtf",
-
+  // W
   "wdp",
   "webp",
   "wmf",
-
+  // X
   "x3d",
   "xar",
   "xbm",
